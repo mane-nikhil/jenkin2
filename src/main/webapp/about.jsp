@@ -8,5 +8,6 @@
 </head>
 <body>
 <h1>this is about page</h1>
+<h2>hii from about</h2>
 </body>
 </html>
