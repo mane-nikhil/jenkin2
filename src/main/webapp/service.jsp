@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>this is about page</h1>
-<h2>hii from about</h2>
-<a href="service.jsp">service</a>
+<h1>this is service page</h1>
 </body>
 </html>
