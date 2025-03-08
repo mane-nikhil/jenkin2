@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>this is service page</h1>
-<a href="test.jsp">test</a>
+<h1>this is test page</h1>
 </body>
 </html>
